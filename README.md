@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
-  <img src="https%3A%2F%2Fskyone.solutions%2Fwp-content%2Fuploads%2F2024%2F12%2Flogo-skyone-azul-1024x524.webp&imgrefurl=https%3A%2F%2Fskyone.solutions%2Four-brand%2F&docid=4ho1C_HtvzKYzM&tbnid=bnwLIlkvGLQlxM&vet=12ahUKEwjXzMzeldmQAxUOBLkGHUYYMdQQM3oECBcQAA..i&w=1024&h=524&hcb=2&ved=2ahUKEwjXzMzeldmQAxUOBLkGHUYYMdQQM3oECBcQAA" height="60" alt="npm logo"  />
+  <img src="svg.skyone.png" height="60" alt="npm logo"  />
 </div>
 
 ###
